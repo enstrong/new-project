@@ -1,2 +1,2 @@
-location.href = 'https://www.google.com/search?q=ok+boomer&sxsrf=ALeKk02upFaP7jQ45wOpayg8KGyLnFmOZA%3A1619279519233&ei=nz6EYKTRDbSSwPAP0LaHqAE&oq=ok+boomer&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyAggAMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCC4QywEyBQgAEMsBMgUIABDLATIFCAAQywE6CAgAELEDEIMBOgUILhCxAzoFCAAQsQM6BwgAELEDEEM6CggAELEDEIMBEEM6BAgAEENQjEBYllJg5lRoAHACeACAAaAFiAGjFpIBCTAuNS40LTIuMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwjknKSknpfwAhU0CRAIHVDbARUQ4dUDCA4&uact=5'
+location.href = 'https://www.google.com/search?q=ok+boomer&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi2p7iqnpfwAhWts4sKHcMCB74Q_AUoAXoECAEQAw'
 
