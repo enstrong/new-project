@@ -1,1 +1,1 @@
-location.href = "https://www.google.com/search?q=porn&oq=porn&aqs=chrome..69i57j46i433l2j0i433l2j69i60l3.994j0j1&sourceid=chrome&ie=UTF-8"
+location.href = "https://www.google.com/search?q=ok+boomer&sxsrf=ALeKk01z5KtAsScE02lSi9iLDOstTxUa5Q:1619278937439&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiIsO6OnJfwAhXjxIsKHT08D8AQ_AUoAXoECAEQAw&
