@@ -1,2 +1,2 @@
-location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+location.href = 'https://www.google.com/search?q=gay+porn&oq=lol+lmao&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ3ODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8'
 
