@@ -1,2 +1,2 @@
-location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+location.href = 'https://www.google.com/search?q=gay+porn&sa=X&sca_esv=8dd9f03442370aca&sxsrf=ADLYWILpsD7EmsmVm-O64O-alx4kcCeuNg:1729188462326&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWfbQph1uib-VfD_izZO2Y5sC3UdQE5x8XNnxUO1qJLaRUGL3qWeTjomUBn_ET6Fuv_qSaM3rhwwsquyvDNiYf4AhvdBxGGsWflOn_SbrhPXYX5yM2t20jqoy2rNsk0mrBYfHYbJ0YV2cKhkr5ymbgfG1LLBFkDU7vvLETjiF9Gtx3xeMX&ved=2ahUKEwimvq-AgZaJAxVZMRAIHddVE_cQtKgLegQIARAH&biw=1920&bih=927&dpr=1'
 
